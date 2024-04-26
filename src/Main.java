@@ -1,18 +1,4 @@
-/*
- * I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-* Any code taken from other sources is referenced within my code solution.
-*
-* References:
-* Lecture notes and tutorials of Algorithms module
-* Lecture notes and tutorials of Object oriented programming module
-* Lecture notes and tutorials of Software Development 2 module
-* Priority Queue: https://www.geeksforgeeks.org/priority-queue-class-in-java/
 
-* IIT ID: 20220081
-* UOW ID: 19531142
-
-* Date: 23rd April 2024
-*/
 
 import java.io.*;
 import java.util.*;
